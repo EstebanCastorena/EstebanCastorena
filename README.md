@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Esteban
 
-<!--
-**EstebanCastorena/EstebanCastorena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Detection & Response engineer at Expel.
 
-Here are some ideas to get you started:
+I build security integrations, and the detections / automations that go with them. My focus is to make managing a security environment a little less manual.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lately Ive been building AI tools around the job including: consistent MITRE mappings across large rule sets and automating how new integrations land on our platform so connecting a customer's tools is less of a manual effort.
+
+[estebomb.com](https://estebomb.com) · [LinkedIn](https://linkedin.com/in/estebancastorena)
+
+#### Other public work (not security)
+
+- **[vividscripts-mcp](https://github.com/EstebanCastorena/vividscripts-mcp)** —
+  remote MCP server for the VividScripts multi-step video pipeline
+  (OAuth 2.1, security-hardened CI).
